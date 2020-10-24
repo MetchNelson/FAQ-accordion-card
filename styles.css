@@ -7,6 +7,9 @@
     color: hsl(228, 45%, 44%);
 }
 
+#body {
+    background-color: hsl(273, 75%, 66%);
+}
 #main {
     color: grey;
     font-size: 12px;
