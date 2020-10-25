@@ -11,6 +11,8 @@
     color: grey;
     font-size: 12px;
     font-family: Kumbh-Sans;
+    border: thick black;
+    border-radius: 10px;
 }
 
 #b1 {
