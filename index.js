@@ -1,4 +1,4 @@
-// document.getElementById('answer1').style.display = 'none'
+document.getElementById('answer1').style.display = 'none'
 function show() {
     answer = document.getElementsById('answer1')
     if (answer.style.display === 'none') {
