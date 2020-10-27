@@ -46,7 +46,7 @@ body {
     border: thin;
     border-color: black;
     border-radius: 20px;
-    height: 600px;
+    height: 60px;
     width: 70%;
     position: relative;
     bottom:25px;
@@ -144,6 +144,6 @@ body {
 #womanPic {
     position: relative;
     top: 550px;
-    left: 100px;
+    left: 50px;
 
 }
