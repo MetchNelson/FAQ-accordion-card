@@ -18,13 +18,16 @@ body {
     font-size: 15px;
     font-family: 'Kumbh-Sans';
     display:inline-block;
-    position: center;
+    position: relative;
+    left: 600px;
 }
 
 #head {
     color: black;
     font-family: 'Kumbh-Sans';
     font-size: 30px;
+    position: relative;
+    left: 600px;
 }
 
 #main {
@@ -37,6 +40,7 @@ body {
     border-radius: 20px;
     height: 600px;
     width: 80%;
+    position: relative;
     bottom: 100px;
     top: 100px;
     left: 100px;
@@ -45,50 +49,69 @@ body {
 
 #answer1 {
     display: none;
+    position: relative;
+    left: 600px;
 }
 
 #secondQ {
     display: none;
+    position: relative;
+    left: 600px;
 }
 
 #thirdQ {
     display: none;
+    position: relative;
+    left: 600px;
 }
 
 #fourthQ {
     display: none;
+    position: relative;
+    left: 600px;
 }
 
 #fifthQ {
     display: none;
+    position: relative;
+    left: 600px;
 }
 
 #b1 {
     background-color: white;
     border-color: white ;
-    position: center;
+    position: relative;
+    left: 600px;
 }
 
 #b2 {
     background-color: white;
     border-radius: 5px;
     border-color: white ;
+    position: relative;
+    left: 600px;
 }
 
 #b3 {
     background-color: white;
     border-radius: 5px;
     border-color: white ;
+    position: relative;
+    left: 600px;
 }
 
 #b4 {
     background-color: white;
     border-radius: 5px;
     border-color: white ;
+    position: relative;
+    left: 600px;
 }
 
 #b5 {
     background-color: white;
     border-radius: 5px;
     border-color: white ;
+    position: relative;
+    left: 600px;
 }
