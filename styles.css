@@ -41,8 +41,8 @@ body {
     border: thin;
     border-color: black;
     border-radius: 20px;
-    height: 600px;
-    width: 80%;
+    /*height: 600px;*/
+    width: 1440px;
     position: relative;
     bottom: 100px;
     top: 100px;
