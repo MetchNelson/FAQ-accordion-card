@@ -39,10 +39,10 @@ body {
     height: 600px;
     width: 80%;
     position: fixed;
-    bottom: 20px;
-    top: 20px;
-    left: 50px;
-    right: 50px;
+    bottom: 200px;
+    top: 200px;
+    left: 400px;
+    right: 400px;
 }
 
 #answer1 {
