@@ -144,11 +144,12 @@ body {
 #womanPic {
     position: relative;
     top: 550px;
-    left:50px;
-
+    left:10px;
 }
 #pattern {
     position: relative;
-    top: 1000px;
+    top: 900px;
     left: 500px;
+    bottom: 0px;
+    right: 0px;
 }
