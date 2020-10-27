@@ -92,6 +92,8 @@ body {
 }
 
 #b1 {
+    background-color: white;
+    border-radius: white;
     position: relative;
     left: 550px;
     top:100px;
