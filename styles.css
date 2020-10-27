@@ -49,8 +49,8 @@ body {
     height: 600px;
     width: 70%;
     position: relative;
-    bottom: 100px;
-    top: 100px;
+    bottom:25px;
+    top: 25px;
     left: 300px;
     right: 100px;
 }
@@ -145,5 +145,5 @@ body {
     top: 600px;
     left: 200px;
     z-index: -1;
-    
+
 }
