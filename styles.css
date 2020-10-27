@@ -25,14 +25,12 @@ body {
     color: black;
     font-family: 'Kumbh-Sans';
     font-size: 30px;
-    position: center;
 }
 
 #main {
     color:grey;
     font-size: 12px;
     font-family: 'Kumbh-Sans';
-    position: center;
     background-color: white;
     border: thin;
     border-color: black;
