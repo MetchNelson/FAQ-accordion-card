@@ -144,9 +144,10 @@ body {
 #womanPic {
     position: relative;
     top: 550px;
-    left: 50px;
+    left: 25px;
 
 }
 #patter {
-    color: black;
+    position: relative;
+    top: 650px;
 }
