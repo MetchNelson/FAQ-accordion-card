@@ -18,13 +18,18 @@ body {
     font-size: 15px;
     font-family: 'Kumbh-Sans';
     display:inline-block;
+    position:fixed;
+    left: 300px;
+    top: 150px;
 }
 
 #head {
     color: black;
     font-family: 'Kumbh-Sans';
     font-size: 30px;
-    left: 100%;
+    position:fixed;
+    left: 300px;
+    top: 150px;
 }
 
 #main {
@@ -35,14 +40,14 @@ body {
     background-color: white;
     border: thin;
     border-color: black;
-    border-radius: 10px;
+    border-radius: 20px;
     height: 600px;
     width: 80%;
     position: fixed;
     bottom: 100px;
     top: 100px;
     left: 100px;
-    right: 200px;
+    right: 100px;
 }
 
 #answer1 {
