@@ -9,7 +9,8 @@
 
 body {
     background-image:linear-gradient(hsl(273, 75%, 66%), hsl(240, 73%, 65%));
-    
+    background-repeat:no-repeat;
+    background-attachment:fixed;
 }
 
 .q {
@@ -33,7 +34,7 @@ body {
     background-color: white;
     border: thin;
     border-color: black;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 
 #answer1 {
