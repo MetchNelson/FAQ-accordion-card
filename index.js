@@ -11,7 +11,7 @@ function show() {
     } else {
         answer.style.display = 'block';
     }
-    const question = document.getElementsByClassName('q')
+    const question = document.getElementById('q1')
     if (question.style.color === 'grey') {
         question.style.color = 'black';
     } else {
