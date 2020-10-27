@@ -53,6 +53,7 @@ body {
     top: 25px;
     left: 300px;
     right: 100px;
+    z-index: -1;
 }
 
 #answer1 {
@@ -144,6 +145,5 @@ body {
     position: relative;
     top: 600px;
     left: 200px;
-    z-index: -1;
 
 }
