@@ -149,7 +149,7 @@ body {
 #pattern {
     position: relative;
     top: 900px;
-    left: 500px;
+    left: 0px;
     bottom: 0px;
-    right: 0px;
+    right: 900px;
 }
