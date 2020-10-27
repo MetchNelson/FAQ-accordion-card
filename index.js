@@ -4,6 +4,6 @@ function show() {
     if (answer.style.display === 'block') {
         return answer.style.display === 'none';
     } else {
-        answer.style.display === 'block';
+        answer.style.display === 'none';
     }
 }
