@@ -18,16 +18,12 @@ body {
     font-size: 15px;
     font-family: 'Kumbh-Sans';
     display:inline-block;
-    left: 800px;
 }
 
 #head {
     color: black;
     font-family: 'Kumbh-Sans';
     font-size: 30px;
-    position:fixed;
-    left: 800px;
-    top: 150px;
 }
 
 #main {
@@ -41,7 +37,6 @@ body {
     border-radius: 20px;
     height: 600px;
     width: 80%;
-    position: fixed;
     bottom: 100px;
     top: 100px;
     left: 100px;
@@ -50,59 +45,49 @@ body {
 
 #answer1 {
     display: none;
-    left: 800px;
 }
 
 #secondQ {
     display: none;
-    left: 800px;
 }
 
 #thirdQ {
     display: none;
-    left: 800px;
 }
 
 #fourthQ {
     display: none;
-    left: 800px;
 }
 
 #fifthQ {
     display: none;
-    left: 800px;
 }
 
 #b1 {
     background-color: white;
     border-color: white ;
-    left: 800px;
 }
 
 #b2 {
     background-color: white;
     border-radius: 5px;
     border-color: white ;
-    left: 800px;
 }
 
 #b3 {
     background-color: white;
     border-radius: 5px;
     border-color: white ;
-    left: 800px;
 }
 
 #b4 {
     background-color: white;
     border-radius: 5px;
     border-color: white ;
-    left: 800px;
 }
 
 #b5 {
     background-color: white;
     border-radius: 5px;
     border-color: white ;
-    left: 800px;
 }
