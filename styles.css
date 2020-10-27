@@ -28,6 +28,7 @@ body {
     font-size: 30px;
     position: relative;
     left: 600px;
+    top:100px; 
 }
 
 #main {
@@ -51,30 +52,35 @@ body {
     display: none;
     position: relative;
     left: 600px;
+    top:100px;
 }
 
 #secondQ {
     display: none;
     position: relative;
     left: 600px;
+    top:100px;
 }
 
 #thirdQ {
     display: none;
     position: relative;
     left: 600px;
+    top:100px;
 }
 
 #fourthQ {
     display: none;
     position: relative;
     left: 600px;
+    top:100px;
 }
 
 #fifthQ {
     display: none;
     position: relative;
     left: 600px;
+    top:100px;
 }
 
 #b1 {
@@ -82,6 +88,7 @@ body {
     border-color: white ;
     position: relative;
     left: 600px;
+    top:100px;
 }
 
 #b2 {
@@ -90,6 +97,7 @@ body {
     border-color: white ;
     position: relative;
     left: 600px;
+    top:100px;
 }
 
 #b3 {
@@ -98,6 +106,7 @@ body {
     border-color: white ;
     position: relative;
     left: 600px;
+    top:100px;
 }
 
 #b4 {
@@ -106,6 +115,7 @@ body {
     border-color: white ;
     position: relative;
     left: 600px;
+    top:100px;
 }
 
 #b5 {
@@ -114,4 +124,5 @@ body {
     border-color: white ;
     position: relative;
     left: 600px;
+    top:100px;
 }
