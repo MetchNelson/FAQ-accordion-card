@@ -144,4 +144,6 @@ body {
     position: relative;
     top: 600px;
     left: 200px;
+    z-index: -1;
+    
 }
