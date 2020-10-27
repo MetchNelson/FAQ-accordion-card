@@ -12,10 +12,10 @@ function show() {
         answer.style.display = 'block';
     }
     const question = document.getElementById('q1')
-    if (question.style.color === 'grey') {
-        question.style.color = 'black';
-    } else {
+    if (question.style.color === 'black') {
         question.style.color = 'grey';
+    } else {
+        question.style.color = 'black';
     }
 }
 
