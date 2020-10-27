@@ -26,6 +26,12 @@ function show2() {
     } else {
         answer.style.display = 'block';
     }
+    const question = document.getElementById('q2')
+    if (question.style.color === 'black') {
+        question.style.color = 'grey';
+    } else {
+        question.style.color = 'black';
+    }
 }
 
 function show3() {
@@ -34,6 +40,12 @@ function show3() {
         answer.style.display = 'none';
     } else {
         answer.style.display = 'block';
+    }
+    const question = document.getElementById('q3')
+    if (question.style.color === 'black') {
+        question.style.color = 'grey';
+    } else {
+        question.style.color = 'black';
     }
 }
 
@@ -44,6 +56,12 @@ function show4() {
     } else {
         answer.style.display = 'block';
     }
+    const question = document.getElementById('q4')
+    if (question.style.color === 'black') {
+        question.style.color = 'grey';
+    } else {
+        question.style.color = 'black';
+    }
 }
 
 function show5() {
@@ -52,5 +70,11 @@ function show5() {
         answer.style.display = 'none';
     } else {
         answer.style.display = 'block';
+    }
+    const question = document.getElementById('q5')
+    if (question.style.color === 'black') {
+        question.style.color = 'grey';
+    } else {
+        question.style.color = 'black';
     }
 }
