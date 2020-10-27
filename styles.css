@@ -48,11 +48,11 @@ body {
     border-radius: 20px;
     height: 600px;
     width: 70%;
-    position: center;
-    /*bottom:25px;
+    position: relative;
+    bottom:25px;
     top: 25px;
     left: 100px;
-    right: 100px;*/
+    right: 100px;
     z-index: -1;
 }
 
@@ -146,4 +146,7 @@ body {
     top: 550px;
     left: 50px;
 
+}
+#patter {
+    color: black;
 }
