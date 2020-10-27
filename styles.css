@@ -19,6 +19,22 @@
     display: none;
 }
 
+#secondQ {
+    display: none;
+}
+
+#thirdQ {
+    display: none;
+}
+
+#fourthQ {
+    display: none;
+}
+
+#fifthQ {
+    display: none;
+}
+
 #b1 {
     background-color: white;
     border-color: white ;
