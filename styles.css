@@ -46,13 +46,13 @@ body {
     border: thin;
     border-color: black;
     border-radius: 20px;
-    height: 60px;
+    height: 600px;
     width: 70%;
-    position: relative;
-    bottom:25px;
+    position: center;
+    /*bottom:25px;
     top: 25px;
     left: 100px;
-    right: 100px;
+    right: 100px;*/
     z-index: -1;
 }
 
