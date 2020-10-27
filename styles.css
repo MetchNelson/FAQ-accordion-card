@@ -20,6 +20,7 @@ body {
     display:inline-block;
     position: relative;
     left: 600px;
+    top:100px;
 }
 
 #head {
