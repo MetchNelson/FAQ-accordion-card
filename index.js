@@ -1,6 +1,6 @@
 function show() {
     answer = document.getElementById('answer1')
-    answe.style.display = 'none';
+    answer.style.display = 'none';
     if (answer.style.display === 'none') {
         return answer.style.display === 'block';
     } else {
