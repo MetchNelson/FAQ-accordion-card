@@ -1,5 +1,5 @@
 /* This is the function for the buttton
-that shows and hides the answers to the question. 
+that shows and hides the answers to the question and chnages the quetsion color. 
 I had to make one for each button because everytime 
 I put them all in a class the code would brake. Can
 anyone help? */
