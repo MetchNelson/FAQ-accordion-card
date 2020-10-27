@@ -35,6 +35,13 @@ body {
     border: thin;
     border-color: black;
     border-radius: 10px;
+    height: 200px;
+    width: 50%;
+    position: fixed;
+    bottom: 20px;
+    top: 20px;
+    left: 50px;
+    right: 50px;
 }
 
 #answer1 {
