@@ -139,3 +139,9 @@ body {
     margin-top: 5%; 
     margin-bottom: 5%; 
 }
+
+#womanPic {
+    position: relative;
+    top: 600px;
+    left: 200px;
+}
