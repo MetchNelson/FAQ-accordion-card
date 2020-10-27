@@ -11,6 +11,12 @@ function show() {
     } else {
         answer.style.display = 'block';
     }
+    const question = document.getElementsByClassName('q')
+    if (question.style.color === 'grey') {
+        question.style.color = 'black';
+    } else {
+        question.style.color = 'grey';
+    }
 }
 
 function show2() {
