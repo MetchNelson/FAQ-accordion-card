@@ -15,6 +15,10 @@
     border-radius: 10px;
 }
 
+#answer1 {
+    display: none;
+}
+
 #b1 {
     background-color: white;
     border-color: white ;
