@@ -7,6 +7,11 @@
     color: hsl(228, 45%, 44%);
 }
 
+body {
+    background-image:linear-gradient(hsl(273, 75%, 66%), hsl(240, 73%, 65%));
+    
+}
+
 .q {
     color: black;
     font-size: 15px;
@@ -17,7 +22,7 @@
 #head {
     color: black;
     font-family: 'Kumbh-Sans';
-    font-size: larger;
+    font-size: 30px;
 }
 
 #main {
@@ -25,6 +30,10 @@
     font-size: 12px;
     font-family: 'Kumbh-Sans';
     position: center;
+    background-color: white;
+    border: thin;
+    border-color: black;
+    border-radius: 20px;
 }
 
 #answer1 {
