@@ -23,7 +23,7 @@ body {
     font-family: 'Kumbh-Sans';
     display:inline-block;
     position: relative;
-    left: 400px;
+    left: 550px;
     top:100px;
 }
 
@@ -32,7 +32,7 @@ body {
     font-family: 'Kumbh-Sans';
     font-size: 30px;
     position: relative;
-    left: 400px;
+    left: 550px;
     top:100px; 
 }
 
@@ -56,41 +56,41 @@ body {
 #answer1 {
     display: none;
     position: relative;
-    left: 400px;
+    left: 550px;
     top:100px;
 }
 
 #secondQ {
     display: none;
     position: relative;
-    left: 400px;
+    left: 550px;
     top:100px;
 }
 
 #thirdQ {
     display: none;
     position: relative;
-    left: 400px;
+    left: 550px;
     top:100px;
 }
 
 #fourthQ {
     display: none;
     position: relative;
-    left: 400px;
+    left: 550px;
     top:100px;
 }
 
 #fifthQ {
     display: none;
     position: relative;
-    left: 400px;
+    left: 550px;
     top:100px;
 }
 
 #b1 {
     position: relative;
-    left: 400px;
+    left: 550px;
     top:100px;
 }
 
@@ -99,7 +99,7 @@ body {
     border-radius: 5px;
     border-color: white ;
     position: relative;
-    left: 400px;
+    left: 550px;
     top:100px;
 }
 
@@ -108,7 +108,7 @@ body {
     border-radius: 5px;
     border-color: white ;
     position: relative;
-    left: 400px;
+    left: 550px;
     top:100px;
 }
 
@@ -117,7 +117,7 @@ body {
     border-radius: 5px;
     border-color: white ;
     position: relative;
-    left: 400px;
+    left: 550px;
     top:100px;
 }
 
@@ -126,6 +126,6 @@ body {
     border-radius: 5px;
     border-color: white ;
     position: relative;
-    left: 400px;
+    left: 550px;
     top:100px;
 }
