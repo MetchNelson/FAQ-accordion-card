@@ -1,5 +1,5 @@
 function show() {
-    answer = document.getElementById('Accordion')
+    answer = document.getElementById('answer1')
     if (answer.style.display === 'none') {
         return answer.style.display === 'block';
     } else {
