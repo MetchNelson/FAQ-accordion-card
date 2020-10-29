@@ -46,8 +46,8 @@ body {
     border: thin;
     border-color: black;
     border-radius: 20px;
-    height: 600px;
-    width: 70%;
+    height: 100%;
+    width: 100%;
     position: relative;
     bottom:25px;
     top: 25px;
