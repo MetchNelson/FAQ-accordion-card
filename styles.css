@@ -26,6 +26,7 @@ body {
     display:inline-block;
     position: inherit;
     left: 500px;
+    bottom: 500px;
 }
 
 #head {
