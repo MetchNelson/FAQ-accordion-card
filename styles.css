@@ -97,14 +97,14 @@ body {
     background-color: white;
     border-color: white ;
 
-#b2 {
-    background-color: white;
+/* #b2 {}
+background-color: white;
     border-radius: 5px;
     border-color: white ;
     position: relative;
     left: 500px;
     top:100px;
-}
+} 
 
 #b3 {
     background-color: white;
@@ -154,4 +154,4 @@ body {
     top: 320px;
     left: 15px;
     position: relative;
-}
+} */
