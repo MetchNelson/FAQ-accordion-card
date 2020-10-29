@@ -32,8 +32,8 @@ body {
     position: inherit;
     left: 575px;
     bottom: 300px;
-    padding: 0px;
-    margin: 0px;
+   /* padding: 0px;
+    margin: 0px;*/
 }
 
 #head {
