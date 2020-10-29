@@ -102,8 +102,7 @@ body {
     position: relative;
     left: 575px;
     bottom: 300px;
-    background-color: white;
-    border-color: white ;
+    background:url("icon-arrow-down.svg") no-repeat center ;
 }
 
 #b2 {
