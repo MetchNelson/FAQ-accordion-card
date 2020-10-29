@@ -133,25 +133,16 @@ body {
     top:100px;
 }
 
-.striped-border { 
-    border: 1px dashed #000; 
-    width: 50%; 
-    margin: auto; 
-    margin-top: 5%; 
-    margin-bottom: 5%; 
-    z-index: 3;
-}
-
 #womanPic {
-    position: relative;
-    top: 350px;
-    right:150px;
+    position: inherit;
+    /*top: 350px;
+    right:150px;*/
     z-index: 2;
 }
 
 #box {
     z-index: 3;
-    top: 320px;
-    left: 15px;
-    position: relative;
+    /*top: 320px;
+    left: 15px; */
+    position: inherit;
 }
