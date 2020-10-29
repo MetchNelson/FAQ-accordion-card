@@ -138,17 +138,14 @@ body {
     right:150px;*/
     right:200px;
     z-index: 2;
-    width: 100%;
-    height: auto;
+    background-size: contain;
 }
-
 #box {
     z-index: 3;
     /*top: 320px;
     left: 15px; */
     position: inherit;
-    width: 100%;
-    height: auto;
+    background-size: contain;
 }
 
 .line {
