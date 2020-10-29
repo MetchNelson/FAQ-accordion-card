@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'Kumbh-Sans';
+    src: url(https://fonts.google.com/specimen/Kumbh+Sans#standard-styles);
+}
+
 .attribution {
     font-size: 11px;
     text-align: center;
