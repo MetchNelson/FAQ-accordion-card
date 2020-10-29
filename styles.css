@@ -1,7 +1,7 @@
 .attribution {
     font-size: 11px;
     text-align: center;
-    font-family: 'Kumbh-Sans';
+    font-family: 'Kumbh Sans';
     position: relative;
     top: 50px;
     color: white;
@@ -21,7 +21,7 @@ body {
 .q {
     color: grey;
     font-size: 15px;
-    font-family: 'Kumbh-Sans';
+    font-family: 'Kumbh Sans';
     display:inline-block;
     position: inherit;
     left: 575px;
@@ -30,7 +30,7 @@ body {
 
 #head {
     color: black;
-    font-family: 'Kumbh-Sans';
+    font-family: 'Kumbh Sans';
     font-size: 30px;
     position: inherit;
     left: 575px;
@@ -40,7 +40,7 @@ body {
 #main {
     color:grey;
     font-size: 12px;
-    font-family: 'Kumbh-Sans';
+    font-family: 'Kumbh Sans';
     background-color: white;
     border: thin;
     border-color: black;
