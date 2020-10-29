@@ -12,20 +12,7 @@
   
   <title>Frontend Mentor | FAQ Accordion Card</title>
 
-  <script src="index.js">function show() {
-    const answer = document.getElementById('answer1');
-    if (answer.style.display === 'block') {
-        answer.style.display = 'none';
-    } else {
-        answer.style.display = 'block';
-    }
-    const question = document.getElementById('q1')
-    if (question.style.color === 'black') {
-        question.style.color = 'grey';
-    } else {
-        question.style.color = 'black';
-    }
-}</script>
+  <script src="index.js"></script>
 
 </head>
 <body id="body">
@@ -61,6 +48,7 @@
 </div>
 <br>
 <br class="striped-border">
+<button onclick="show()"></button>
 
   <p class="q" id="q4">Can I cancel my subscription?</p> <button onclick="show4()" type="button" id="b4"><svg width="10" height="7" xmlns="http://www.w3.org/2000/svg"><path d="M1 .799l4 4 4-4" stroke="#F47B56" stroke-width="2" fill="none" fill-rule="evenodd"/></svg></button>
   <div id="fourthQ">
