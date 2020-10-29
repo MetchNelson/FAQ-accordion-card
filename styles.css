@@ -168,13 +168,16 @@ body {
 
 .mobilePic {
     display: none;
+    z-index: -1;
 }
 
 @media only screen and (max-width: 320px) {
     .womanPic {
       display: none;
+      z-index: -1;
     }
     .mobilePic {
         display: visible;
+        z-index: 2;
     }
   }
