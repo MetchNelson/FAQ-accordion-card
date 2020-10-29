@@ -166,10 +166,10 @@ body {
     z-index: 3;
 }
 
-/*.mobilePic {
+.mobilePic {
     display: none;
     z-index: -1;
-}*/
+}
 
 @media only screen and (min-width: 280px) and 
 (max-width:414px)  {
