@@ -146,3 +146,8 @@ body {
     right:150px;
     z-index: 2;
 }
+
+#redBox {
+    z-index: 3;
+    top: 100px;
+}
