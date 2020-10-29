@@ -94,6 +94,8 @@ body {
     position: relative;
     left: 450px;
     top:100px;
+    background-color: white;
+    border-color: white;
 }
 
 #b2 {
