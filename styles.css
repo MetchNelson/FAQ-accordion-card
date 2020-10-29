@@ -5,23 +5,17 @@
     position: relative;
     top: 50px;
     color: white;
-    padding: 0px;
-    margin: 0px;
 }
 
 .attribution a {
     color: white;
     font-weight: bold;
-    padding: 0px;
-    margin: 0px;
 }
 
 body {
     background-image:linear-gradient(hsl(273, 75%, 66%), hsl(240, 73%, 65%));
     background-repeat:no-repeat;
     background-attachment:fixed;
-    padding: 0px;
-    margin: 0px;
 }
 
 .q {
@@ -32,8 +26,6 @@ body {
     position: inherit;
     left: 575px;
     bottom: 300px;
-   padding: 0px;
-    margin: 0px;
 }
 
 #head {
@@ -43,8 +35,6 @@ body {
     position: inherit;
     left: 575px;
     bottom: 300px;
-    padding: 0px;
-    margin: 0px;
 }
 
 #main {
@@ -69,8 +59,6 @@ body {
     position: relative;
     left: 575px;
     bottom: 300px;
-    padding: 0px;
-    margin: 0px;
 }
 
 #secondQ {
@@ -78,8 +66,6 @@ body {
     position: relative;
     left: 575px;
     bottom: 300px;
-    padding: 0px;
-    margin: 0px;
 }
 
 #thirdQ {
@@ -87,8 +73,6 @@ body {
     position: relative;
     left: 575px;
     bottom: 300px;
-    padding: 0px;
-    margin: 0px;
 }
 
 #fourthQ {
@@ -96,8 +80,6 @@ body {
     position: relative;
     left: 575px;
     bottom: 300px;
-    padding: 0px;
-    margin: 0px;
 }
 
 #fifthQ {
@@ -105,8 +87,6 @@ body {
     position: relative;
     left: 575px;
     bottom: 300px;
-    padding: 0px;
-    margin: 0px;
 }
 
 #b1 {
@@ -115,8 +95,6 @@ body {
     bottom: 300px;
     background-color: white;
     border-color: white ;
-    padding: 0px;
-    margin: 0px;
 }
 
 #b2 {
@@ -125,8 +103,6 @@ body {
     bottom: 300px;
     background-color: white;
     border-color: white ;
-    padding: 0px;
-    margin: 0px;
 }
 
 #b3 {
@@ -136,8 +112,6 @@ body {
     position: relative;
     left: 575px;
     bottom: 300px;
-    padding: 0px;
-    margin: 0px;
 }
 
 #b4 {
@@ -147,8 +121,6 @@ body {
     position: relative;
     left: 575px;
     bottom: 300px;
-    padding: 0px;
-    margin: 0px;
 }
 
 #b5 {
@@ -158,8 +130,6 @@ body {
     position: relative;
     left: 575px;
     bottom: 300px;
-    padding: 0px;
-    margin: 0px;
 }
 
 #womanPic {
@@ -168,10 +138,6 @@ body {
     right:150px;*/
     right:200px;
     z-index: 2;
-    padding: 0px;
-    margin: 0px;
-    width: 100%;
-    height: auto;
 }
 
 #box {
@@ -179,10 +145,6 @@ body {
     /*top: 320px;
     left: 15px; */
     position: inherit;
-    padding: 0px;
-    margin: 0px;
-    width: 100%;
-    height: auto;
 }
 
 .line {
@@ -193,6 +155,4 @@ body {
     left: 250px;
     bottom: 300px;
     z-index: 3;
-    padding: 0px;
-    margin: 0px;
 }
