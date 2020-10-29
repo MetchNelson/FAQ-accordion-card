@@ -96,15 +96,15 @@ body {
     top:100px;
     background-color: white;
     border-color: white ;
+}
 
-/* #b2 {}
-background-color: white;
-    border-radius: 5px;
-    border-color: white ;
+#b2 {
     position: relative;
     left: 500px;
     top:100px;
-} 
+    background-color: white;
+    border-color: white ;
+}
 
 #b3 {
     background-color: white;
@@ -154,4 +154,4 @@ background-color: white;
     top: 320px;
     left: 15px;
     position: relative;
-} */
+}
