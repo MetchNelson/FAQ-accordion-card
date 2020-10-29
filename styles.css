@@ -1,8 +1,3 @@
-/*@font-face {
-    font-family: 'Kumbh-Sans';
-    src: url('https://fonts.google.com/specimen/Kumbh+Sans#standard-styles');
-}
-*/
 .attribution {
     font-size: 11px;
     text-align: center;
@@ -35,7 +30,7 @@ body {
 
 #head {
     color: black;
-    font-family: Impact, 'Haettenschweiler', 'Arial Narrow Bold', sans-serif;
+    font-family: 'Kumbh-Sans';
     font-size: 30px;
     position: inherit;
     left: 575px;
