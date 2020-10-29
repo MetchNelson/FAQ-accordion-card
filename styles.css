@@ -151,4 +151,5 @@ body {
     color: black;
     size: 4;
     width: 50px;
+    position: absolute;
 }
