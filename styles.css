@@ -28,6 +28,10 @@ body {
     bottom: 300px;
     
 }
+h1:hover {
+    color: red;
+  }
+
 
 #head {
     color: black;
