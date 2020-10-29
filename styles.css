@@ -33,7 +33,8 @@ body {
     font-family: 'Kumbh-Sans';
     font-size: 30px;
     position: inherit;
-    left: 500px;
+    left: 575px;
+    bottom: 300px;
 }
 
 #main {
@@ -56,50 +57,50 @@ body {
 #answer1 {
     display: none;
     position: relative;
-    left: 500px;
-    top:50px;
+    left: 575px;
+    bottom: 300px;
 }
 
 #secondQ {
     display: none;
     position: relative;
-    left: 500px;
-    top:50px;
+    left: 575px;
+    bottom: 300px;
 }
 
 #thirdQ {
     display: none;
     position: relative;
-    left: 500px;
-    top:50px;
+    left: 575px;
+    bottom: 300px;
 }
 
 #fourthQ {
     display: none;
     position: relative;
-    left: 500px;
-    top:50px;
+    left: 575px;
+    bottom: 300px;
 }
 
 #fifthQ {
     display: none;
     position: relative;
-    left: 500px;
-    top:50px;
+    left: 575px;
+    bottom: 300px;
 }
 
 #b1 {
     position: relative;
-    left: 500px;
-    top:50px;
+    left: 575px;
+    bottom: 300px;
     background-color: white;
     border-color: white ;
 }
 
 #b2 {
     position: relative;
-    left: 500px;
-    top:50px;
+    left: 575px;
+    bottom: 300px;
     background-color: white;
     border-color: white ;
 }
@@ -109,8 +110,8 @@ body {
     border-radius: 5px;
     border-color: white ;
     position: relative;
-    left: 500px;
-    top:50px;
+    left: 575px;
+    bottom: 300px;
 }
 
 #b4 {
@@ -118,8 +119,8 @@ body {
     border-radius: 5px;
     border-color: white ;
     position: relative;
-    left: 500px;
-    top:50px;
+    left: 575px;
+    bottom: 300px;
 }
 
 #b5 {
@@ -127,8 +128,8 @@ body {
     border-radius: 5px;
     border-color: white ;
     position: relative;
-    left: 500px;
-    top: 50px;
+    left: 575px;
+    bottom: 300px;
 }
 
 #womanPic {
