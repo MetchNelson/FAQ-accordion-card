@@ -29,7 +29,7 @@ body {
     
 }
 q:hover {
-    color: coral;
+    background-color: coral;
 }
 
 #head {
