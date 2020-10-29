@@ -143,6 +143,6 @@ body {
 #womanPic {
     position: relative;
     top: 350px;
-    left:100px;
+    right:150px;
     z-index: 2;
 }
