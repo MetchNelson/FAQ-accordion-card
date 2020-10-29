@@ -75,12 +75,3 @@ function show5() {
         question.style.color = 'black';
     }
 }
-//changes the color on hover 
-function colorChanger() {
-    const q = document.getElementById('q');
-    if (q.style.color === 'grey') {
-        q.style.color = 'coral';
-    }else {
-        q.style.color = 'grey';
-    }
-}
