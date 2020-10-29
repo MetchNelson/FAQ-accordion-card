@@ -149,7 +149,7 @@ body {
     z-index: 2;
 }
 
-#redBox {
+#box {
     z-index: 2;
     top: 200px;
     left: 100px;
