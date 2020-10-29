@@ -94,8 +94,7 @@ body {
     position: relative;
     left: 500px;
     top:100px;
-    background-color: white;
-    border-color: white;
+     background-image: 'icon-arrow-down.svg';
 }
 
 #b2 {
