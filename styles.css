@@ -146,3 +146,9 @@ body {
     left: 15px; */
     position: inherit;
 }
+
+.line {
+    color: black;
+    size: 4;
+    width: 50px;
+}
