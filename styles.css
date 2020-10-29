@@ -26,6 +26,10 @@ body {
     position: inherit;
     left: 575px;
     bottom: 300px;
+    
+}
+q:hover {
+    color: coral;
 }
 
 #head {
