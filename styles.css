@@ -165,3 +165,16 @@ body {
     bottom: 300px;
     z-index: 3;
 }
+
+.mobilePic {
+    display: none;
+}
+
+@media only screen and (max-width: 320px) {
+    .womanPic {
+      display: none;
+    }
+    .mobilePic {
+        display: visible;
+    }
+  }
