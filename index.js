@@ -1,8 +1,5 @@
 /* This is the function for the buttton
-that shows and hides the answers to the question and chnages the quetsion color. 
-I had to make one for each button because everytime 
-I put them all in a class the code would brake. Can
-anyone help? */
+that shows and hides the answers to the question and chnages the quetsion color. */
 
 function show() {
     const answer = document.getElementById('answer1');
@@ -76,5 +73,14 @@ function show5() {
         question.style.color = 'grey';
     } else {
         question.style.color = 'black';
+    }
+}
+//changes the color on hover 
+function colorChanger() {
+    const q = document.getElementById('q');
+    if (q.style.color === 'grey') {
+        q.style.color = 'coral';
+    }else {
+        q.style.color = 'grey';
     }
 }
