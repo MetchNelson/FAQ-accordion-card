@@ -24,9 +24,8 @@ body {
     font-size: 15px;
     font-family: 'Kumbh-Sans';
     display:inline-block;
-    position: relative;
+    position: inherit;
     left: 500px;
-    top:50px;
 }
 
 #head {
