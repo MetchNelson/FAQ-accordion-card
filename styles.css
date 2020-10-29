@@ -173,6 +173,8 @@ body {
     z-index: 2;
     padding: 0px;
     margin: 0px;
+    width: 100%;
+    height: auto;
 }
 
 #box {
@@ -182,6 +184,8 @@ body {
     position: inherit;
     padding: 0px;
     margin: 0px;
+    width: 100%;
+    height: auto;
 }
 
 .line {
