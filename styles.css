@@ -29,7 +29,7 @@ body {
     display:inline-block;
     position: inherit;
     left: 375px;
-    bottom: 100px;
+    bottom: 50px;
     
 }
 .q:hover {
@@ -43,7 +43,7 @@ body {
     font-size: 30px;
     position: inherit;
     left: 375px;
-    bottom: 100px;
+    bottom: 50px;
 }
 
 #main {
