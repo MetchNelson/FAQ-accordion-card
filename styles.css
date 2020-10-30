@@ -28,8 +28,8 @@ body {
     font-family: 'Kumbh Sans';
     display:inline-block;
     position: inherit;
-    left: 575px;
-    bottom: 300px;
+    left: 275px;
+    bottom: 100px;
     
 }
 .q:hover {
@@ -42,8 +42,8 @@ body {
     font-family: 'Kumbh Sans';
     font-size: 30px;
     position: inherit;
-    left: 575px;
-    bottom: 300px;
+    left: 275px;
+    bottom: 100px;
 }
 
 #main {
@@ -167,6 +167,6 @@ body {
 }
 
 .mobilePic {
-    display: none;
-    z-index: -1;
+    position: relative;
+
 }
