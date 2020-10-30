@@ -143,10 +143,10 @@ body {
 .line {
     color: black;
     size: 4;
-    width: 700px;
+    width: 900px;
     position: relative;
     left: 0px;
-    bottom: 50px;
+    bottom: 100px;
     z-index: 3;
 }
 
