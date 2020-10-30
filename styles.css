@@ -56,7 +56,7 @@ body {
     border-radius: 20px;
     height: 600px;
     width: 70%;
-    position: center;
+    position: relative;
     bottom:25px;
     top: 25px;
     left: 100px;
