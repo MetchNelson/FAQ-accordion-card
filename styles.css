@@ -29,7 +29,7 @@ body {
     display:inline-block;
     position: inherit;
     left: 275px;
-    bottom: 100px;
+    bottom: 200px;
     
 }
 .q:hover {
@@ -43,7 +43,7 @@ body {
     font-size: 30px;
     position: inherit;
     left: 275px;
-    bottom: 100px;
+    bottom: 200px;
 }
 
 #main {
@@ -168,5 +168,5 @@ body {
 
 .mobilePic {
     position: relative;
-
+    left: 200px;
 }
