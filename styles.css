@@ -43,7 +43,7 @@ body {
     font-size: 30px;
     position: inherit;
     left: 575px;
-    bottom: 300px;
+    bottom: 100px;
 }
 
 #main {
@@ -67,41 +67,41 @@ body {
     display: none;
     position: relative;
     left: 575px;
-    bottom: 300px;
+    bottom: 100px;
 }
 
 #secondQ {
     display: none;
     position: relative;
     left: 575px;
-    bottom: 300px;
+    bottom: 100px;
 }
 
 #thirdQ {
     display: none;
     position: relative;
     left: 575px;
-    bottom: 300px;
+    bottom: 100px;
 }
 
 #fourthQ {
     display: none;
     position: relative;
     left: 575px;
-    bottom: 300px;
+    bottom: 100px;
 }
 
 #fifthQ {
     display: none;
     position: relative;
     left: 575px;
-    bottom: 300px;
+    bottom: 100px;
 }
 
 #b1 {
     position: relative;
     left: 575px;
-    bottom: 300px;
+    bottom: 100px;
     background-color: white;
     border-color: white ;
 }
@@ -109,7 +109,7 @@ body {
 #b2 {
     position: relative;
     left: 575px;
-    bottom: 300px;
+    bottom: 100px;
     background-color: white;
     border-color: white ;
 }
@@ -120,7 +120,7 @@ body {
     border-color: white ;
     position: relative;
     left: 575px;
-    bottom: 300px;
+    bottom: 100px;
 }
 
 #b4 {
@@ -129,7 +129,7 @@ body {
     border-color: white ;
     position: relative;
     left: 575px;
-    bottom: 300px;
+    bottom: 100px;
 }
 
 #b5 {
@@ -138,7 +138,7 @@ body {
     border-color: white ;
     position: relative;
     left: 575px;
-    bottom: 300px;
+    bottom: 100px;
 }
 
 #womanPic {
@@ -163,6 +163,6 @@ body {
     width: 350px;
     position: relative;
     left: 250px;
-    bottom: 300px;
+    bottom: 100px;
     z-index: 3;
 }
