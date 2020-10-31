@@ -66,49 +66,50 @@ body {
 #answer1 {
     display: none;
     position: relative;
-    left: 575px;
-    bottom: 300px;
+    left: 275px;
+    bottom: 50px;
 }
 
 #secondQ {
     display: none;
     position: relative;
-    left: 575px;
-    bottom: 300px;
+    left: 375px;
+    bottom: 50px;
 }
 
 #thirdQ {
     display: none;
     position: relative;
-    left: 575px;
-    bottom: 300px;
+    left: 375px;
+    bottom: 50px;
 }
 
 #fourthQ {
     display: none;
     position: relative;
-    left: 575px;
-    bottom: 300px;
+    left: 375px;
+    bottom: 50px;
 }
 
 #fifthQ {
     display: none;
     position: relative;
-    left: 575px;
-    bottom: 300px;
+    left: 375px;
+    bottom: 50px;
 }
 
 #b1 {
     position: relative;
-    left: 575px;
-    bottom: 300px;
+    left: 375px;
+    bottom: 50px;
     background:url("icon-arrow-down.svg") no-repeat center ;
+    border-color: white;
 }
 
 #b2 {
     position: relative;
-    left: 575px;
-    bottom: 300px;
+    left: 375px;
+    bottom: 50px;
     background-color: white;
     border-color: white ;
 }
@@ -118,8 +119,8 @@ body {
     border-radius: 5px;
     border-color: white ;
     position: relative;
-    left: 575px;
-    bottom: 300px;
+    left: 375px;
+    bottom: 50px;
 }
 
 #b4 {
@@ -127,8 +128,8 @@ body {
     border-radius: 5px;
     border-color: white ;
     position: relative;
-    left: 575px;
-    bottom: 300px;
+    left: 375px;
+    bottom: 50px;
 }
 
 #b5 {
@@ -136,8 +137,8 @@ body {
     border-radius: 5px;
     border-color: white ;
     position: relative;
-    left: 575px;
-    bottom: 300px;
+    left: 375px;
+    bottom: 50px;
 }
 
 #womanPic {
@@ -161,8 +162,8 @@ body {
     size: 4;
     width: 350px;
     position: relative;
-    left: 250px;
-    bottom: 300px;
+    left: 375px;
+    bottom: 50px;
     z-index: 3;
 }
 
