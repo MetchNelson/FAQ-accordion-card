@@ -28,8 +28,8 @@ body {
     font-family: 'Kumbh Sans';
     display:inline-block;
     position: inherit;
-    left: 375px;
-    bottom: 50px;
+    left: 575px;
+    bottom: 300px;
     
 }
 .q:hover {
@@ -42,8 +42,8 @@ body {
     font-family: 'Kumbh Sans';
     font-size: 30px;
     position: inherit;
-    left: 375px;
-    bottom: 50px;
+    left: 575px;
+    bottom: 300px;
 }
 
 #main {
@@ -66,50 +66,50 @@ body {
 #answer1 {
     display: none;
     position: relative;
-    left: 275px;
-    bottom: 50px;
+    left: 575px;
+    bottom: 300px;
 }
 
 #secondQ {
     display: none;
     position: relative;
-    left: 375px;
-    bottom: 50px;
+    left: 575px;
+    bottom: 300px;
 }
 
 #thirdQ {
     display: none;
     position: relative;
-    left: 375px;
-    bottom: 50px;
+    left: 575px;
+    bottom: 300px;
 }
 
 #fourthQ {
     display: none;
     position: relative;
-    left: 375px;
-    bottom: 50px;
+    left: 575px;
+    bottom: 300px;
 }
 
 #fifthQ {
     display: none;
     position: relative;
-    left: 375px;
-    bottom: 50px;
+    left: 575px;
+    bottom: 300px;
 }
 
 #b1 {
     position: relative;
-    left: 375px;
-    bottom: 50px;
-    background:url("icon-arrow-down.svg") no-repeat center ;
-    border-color: white;
+    left: 575px;
+    bottom: 300px;
+    background-color: white;
+    border-color: white ;
 }
 
 #b2 {
     position: relative;
-    left: 375px;
-    bottom: 50px;
+    left: 575px;
+    bottom: 300px;
     background-color: white;
     border-color: white ;
 }
@@ -119,8 +119,8 @@ body {
     border-radius: 5px;
     border-color: white ;
     position: relative;
-    left: 375px;
-    bottom: 50px;
+    left: 575px;
+    bottom: 300px;
 }
 
 #b4 {
@@ -128,8 +128,8 @@ body {
     border-radius: 5px;
     border-color: white ;
     position: relative;
-    left: 375px;
-    bottom: 50px;
+    left: 575px;
+    bottom: 300px;
 }
 
 #b5 {
@@ -137,8 +137,8 @@ body {
     border-radius: 5px;
     border-color: white ;
     position: relative;
-    left: 375px;
-    bottom: 50px;
+    left: 575px;
+    bottom: 300px;
 }
 
 #womanPic {
@@ -162,12 +162,7 @@ body {
     size: 4;
     width: 350px;
     position: relative;
-    left: 50px;
-    bottom: 50px;
+    left: 250px;
+    bottom: 300px;
     z-index: 3;
-}
-
-.mobilePic {
-    position: relative;
-    left: 200px;
 }
