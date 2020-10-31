@@ -156,3 +156,8 @@ body {
     bottom: 100px;
     z-index: 3;
 }
+
+#shadow {
+    position: relative;
+    top: 100px;
+}
