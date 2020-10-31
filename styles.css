@@ -141,20 +141,10 @@ body {
     bottom: 100px;
 }
 
-#womanPic {
-    position: inherit;
-    /*top: 350px;
-    right:150px;*/
-    right:200px;
-    z-index: 2;
-    background-size: contain;
-}
-#box {
-    z-index: 3;
-    /*top: 320px;
-    left: 15px; */
-    position: inherit;
-    background-size: contain;
+#mobilePic {
+    position: relative;
+    top: 200px;
+    left: 200px;
 }
 
 .line {
