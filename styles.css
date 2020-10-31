@@ -162,7 +162,7 @@ body {
     size: 4;
     width: 350px;
     position: relative;
-    left: 675px;
+    right: 675px;
     bottom: 50px;
     z-index: 3;
 }
