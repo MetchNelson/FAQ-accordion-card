@@ -185,22 +185,22 @@ body {
     
     #secondQ {
         position: relative;
-        left: 150px;
+        left: 50px;
     }
     
     #thirdQ {
         position: relative;
-        left: 150px;
+        left: 50px;
     }
     
     #fourthQ {
         position: relative;
-        left: 150px;
+        left: 50px;
     }
     
     #fifthQ {
         position: relative;
-        left: 150px;
+        left: 50px;
     }
     
     #b1 {
@@ -210,29 +210,32 @@ body {
     
     #b2 {
         position: relative;
-        left: 150px;
+        left: 50px;
     }
     
     #b3 {
         position: relative;
-        left: 150px;
+        left: 50px;
     }
     
     #b4 {
         position: relative;
-        left: 150px;
+        left: 50px;
     }
     
     #b5 {
         position: relative;
-        left: 150px;
+        left: 50px;
     }
     
     #mobilePic {
         position: relative;
-        bottom:100px ;
+        bottom:20px ;
         left: 100px;
 
+    }
+    #shadow {
+        bottom: 20px;
     }
 
     #head {
