@@ -163,3 +163,13 @@ body {
     left: 100px;
 
 }
+
+@media only screen and (min-width: 320px){
+    .line {
+        display: none;
+    }
+
+    #main {
+        width: 100%;
+    }
+  }
