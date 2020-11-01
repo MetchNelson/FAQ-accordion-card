@@ -268,3 +268,94 @@ body {
         left: 175px;
     }
   }
+
+  @media only screen and (min-width:768px) and (max-width:1024px) , (orientation: portrait) {
+      #mobilePic {
+          display: none;
+      }
+      #shadow {
+          display: none;
+      }
+
+      .q {
+          position: relative;
+          left: 100px;
+          top: 150px;
+      }
+
+      .line {
+          position: relative;
+          left: 10px;
+          top: 150px;
+      }
+
+      #head {
+          position: relative;
+          top: 150px;
+          left: 200px;
+      }
+
+      #answer1 {
+        position: relative;
+        left: 100px;
+          top: 150px;
+    }
+    
+    #secondQ {
+        position: relative;
+        left: 100px;
+          top: 150px;
+    }
+    
+    #thirdQ {
+        position: relative;
+        left: 100px;
+          top: 150px;
+    }
+    
+    #fourthQ {
+        position: relative;
+        left: 100px;
+          top: 150px;
+    }
+    
+    #fifthQ {
+        position: relative;
+        left: 100px;
+          top: 150px;
+    }
+    
+    #b1 {
+        position: relative;
+        left: 100px;
+          top: 150px;
+    }
+    
+    #b2 {
+        position: relative;
+        left: 100px;
+        top: 150px;
+    }
+    
+    #b3 {
+        position: relative;
+        left: 100px;
+          top: 150px;
+    }
+    
+    #b4 {
+        position: relative;
+        left: 100px;
+          top: 150px;
+    }
+    
+    #b5 {
+        position: relative;
+        left: 100px;
+        top: 150px;
+    }
+
+    #main {
+        height: 700px;
+    }
+  }
