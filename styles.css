@@ -172,51 +172,61 @@ body {
     #main {
         width: 100%;
     }
-    /*
+    
     .q {
-        
-        right: 300px;
+        position: relative;
+        left: 150px;
     }
 
     #answer1 {
-        right: 300px;
+        position: relative;
+        left: 150px;
     }
     
     #secondQ {
-        right: 300px;
+        position: relative;
+        left: 150px;
     }
     
     #thirdQ {
-        right: 300px;
+        position: relative;
+        left: 150px;
     }
     
     #fourthQ {
-        right: 300px;
+        position: relative;
+        left: 150px;
     }
     
     #fifthQ {
-        right: 300px;
+        position: relative;
+        left: 150px;
     }
     
     #b1 {
-        right: 300px;
+        position: relative;
+        left: 150px;
     }
     
     #b2 {
-        right: 300px;
+        rposition: relative;
+        left: 150px;
     }
     
     #b3 {
-        right: 300px;
+        position: relative;
+        left: 150px;
     }
     
     #b4 {
-        right: 300px;
+        position: relative;
+        left: 150px;
     }
     
     #b5 {
-        right: 300px;
-    }*/
+        position: relative;
+        left: 150px;
+    }
     
     #mobilePic {
         position: relative;
