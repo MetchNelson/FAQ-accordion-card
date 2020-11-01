@@ -170,7 +170,8 @@ body {
     }
 
     #main {
-        width: 100%;
+        width: 375px ;
+        height: 667px;
     }
     
     .q {
