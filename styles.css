@@ -172,4 +172,62 @@ body {
     #main {
         width: 100%;
     }
+    /*
+    .q {
+        
+        right: 300px;
+    }
+
+    #answer1 {
+        right: 300px;
+    }
+    
+    #secondQ {
+        right: 300px;
+    }
+    
+    #thirdQ {
+        right: 300px;
+    }
+    
+    #fourthQ {
+        right: 300px;
+    }
+    
+    #fifthQ {
+        right: 300px;
+    }
+    
+    #b1 {
+        right: 300px;
+    }
+    
+    #b2 {
+        right: 300px;
+    }
+    
+    #b3 {
+        right: 300px;
+    }
+    
+    #b4 {
+        right: 300px;
+    }
+    
+    #b5 {
+        right: 300px;
+    }*/
+    
+    #mobilePic {
+        position: relative;
+        bottom:100px ;
+        left: 100px;
+
+    }
+
+    #head {
+        position: relative;
+        right: 300px;
+    }
+
   }
